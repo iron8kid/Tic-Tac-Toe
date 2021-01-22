@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 (cs50:AI PROJECT)
 Minimax, an IA to play Tic-Tac-Toe optimally.
-![Example](game.png)
+![Example](game.PNG)
 
 ### Getting Started
 
